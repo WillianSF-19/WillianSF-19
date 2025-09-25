@@ -47,7 +47,7 @@ Meu objetivo é ajudar empresas e profissionais a terem presença digital de for
 ## 📫 Contato
 - 📱 WhatsApp: [Clique aqui para falar comigo](https://wa.me/5521971254996)  
 - 💻 GitHub: [WillianSF-19](https://github.com/WillianSF-19)
-
+- 📷 Instagram: [@willcrf19](https://instagram.com/willcrf19)
 ---
 
 ⭐ Confira meus repositórios aqui no GitHub para ver mais projetos!
