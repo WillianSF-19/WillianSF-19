@@ -27,19 +27,19 @@ Meu objetivo é ajudar empresas e profissionais a terem presença digital de for
 ## 📂 Projetos em Destaque
 
 - <a href="https://williansf-19.github.io/lavajato/" target=_blank>🚗 Site Lava Jato</a> 
-  Site institucional moderno e responsivo para divulgação de serviços de lavagem automotiva.
+   - Site institucional moderno e responsivo para divulgação de serviços de lavagem automotiva.
 
 - <a href="https://williansf-19.github.io/salaodebeleza/" target=_blank>💇‍♀️ Site Salão de Beleza</a> 
-  Layout elegante e responsivo, com destaque para serviços e agendamento via WhatsApp.
+   - Layout elegante e responsivo, com destaque para serviços e agendamento via WhatsApp.
 
 - <a href="https://williansf-19.github.io/barbearia/" target=_blank>💈 Site Barbearia</a> 
-  Site estiloso e prático para apresentação de cortes, barba e contato direto com clientes.
+   - Site estiloso e prático para apresentação de cortes, barba e contato direto com clientes.
 
 - <a href="https://williansf-19.github.io/escritorioadvocacia/" target=_blank>⚖️ Site Escritório de Advocacia</a> 
-  Site institucional com design sóbrio, responsivo e focado em transmitir confiança.
+   - Site institucional com design sóbrio, responsivo e focado em transmitir confiança.
 
 - <a href="https://williansf-19.github.io/eventos/" target=_blank>🎉 Site Salão de Festas</a>
-  Site institucional moderno e responsivo para divulgação de salões de festas e eventos, com destaque para fotos, serviços e contato rápido pelo WhatsApp.
+   - Site institucional moderno e responsivo para divulgação de salões de festas e eventos, com destaque para fotos, serviços e contato rápido pelo WhatsApp.
 
 
 ---
