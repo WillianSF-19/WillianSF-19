@@ -26,6 +26,8 @@ Meu objetivo é ajudar empresas e profissionais a terem presença digital de for
 
 ## 📂 Projetos em Destaque
 
+**Lembrando que todos são sites fictício, apenas para apresentar os projetos, apenas para mostrar um pouco do trabalho.
+
 - <a href="https://williansf-19.github.io/lavajato/" target=_blank>🚗 Site Lava Jato</a> 
    - Site institucional moderno e responsivo para divulgação de serviços de lavagem automotiva.
 
